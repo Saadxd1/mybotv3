@@ -5,7 +5,7 @@ const stalk = (prefix, botName, ownerName) => {
 ┷┯ *〈 BOT INFO 〉*
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
-   ┠≽ *Creator* : ${ownerName}
+   ┠≽ *Creator* : ${Saad nakdi}
    ┠≽ *Version* : 「  2.4.9  」
    ╿
 ┯┷ *〈 ABOUT 〉*
